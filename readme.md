@@ -1,0 +1,1 @@
+gcc test_pi.cc -o test_pi -lpthread && ./test_pi -pthread
